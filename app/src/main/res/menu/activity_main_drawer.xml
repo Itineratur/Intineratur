@@ -13,7 +13,7 @@
             android:icon="@drawable/ic_hotel_black_24dp"
             android:title="Gallery" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_lugares_de_interes"
             android:icon="@drawable/ic_pin_drop_black_24dp"
             android:title="lugares de interes" />
         <item
@@ -24,7 +24,7 @@
         <item
             android:id="@+id/nav_centros_nocturnos"
             android:icon="@drawable/ic_local_bar_black_24dp"
-            android:title="Send" />
+            android:title="Centros Nocturnos" />
 
     </group>
 

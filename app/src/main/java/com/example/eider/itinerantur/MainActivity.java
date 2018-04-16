@@ -80,17 +80,17 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.nav_comida) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.nav_hospedaje) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.nav_lugares_de_interes) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.nav_actvidades_municipales) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.nav_centros_nocturnos) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.nav_promociones) {
 
         }
 
