@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_comida"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_restaurant_black_24dp"
             android:title="comida" />
         <item
             android:id="@+id/nav_hospedaje"
@@ -18,8 +18,12 @@
             android:title="lugares de interes" />
         <item
             android:id="@+id/nav_actvidades_municipales"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_location_city_black_24dp"
             android:title="actividades municipales" />
+        <item
+            android:id="@+id/nav_turismo_alterno"
+            android:icon="@drawable/ic_pool_black_24dp"
+            android:title="Turismo alterno" />
 
         <item
             android:id="@+id/nav_centros_nocturnos"
@@ -32,7 +36,7 @@
         <menu>
             <item
                 android:id="@+id/nav_promociones"
-                android:icon="@drawable/ic_menu_share"
+                android:icon="@drawable/ic_money_off_black_24dp"
                 android:title="Promociones" />
 
         </menu>
