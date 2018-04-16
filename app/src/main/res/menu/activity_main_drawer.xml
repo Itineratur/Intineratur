@@ -5,33 +5,36 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_comida"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:title="comida" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/nav_hospedaje"
+            android:icon="@drawable/ic_hotel_black_24dp"
             android:title="Gallery" />
         <item
             android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
+            android:icon="@drawable/ic_pin_drop_black_24dp"
+            android:title="lugares de interes" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_actvidades_municipales"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:title="actividades municipales" />
+
+        <item
+            android:id="@+id/nav_centros_nocturnos"
+            android:icon="@drawable/ic_local_bar_black_24dp"
+            android:title="Send" />
+
     </group>
 
-    <item android:title="Communicate">
+    <item android:title="Descuentos">
         <menu>
             <item
-                android:id="@+id/nav_share"
+                android:id="@+id/nav_promociones"
                 android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:title="Promociones" />
+
         </menu>
     </item>
 
